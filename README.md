@@ -86,22 +86,24 @@ class Nilesh(Developer):
 
 --- -->
 
-## 🐍 Contribution Snake
+## 👻 Eat. Sleep. Commit.
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="95%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 
 </div>
 
----
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-N007/Dev-N007/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-N007/Dev-N007/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dev-N007/Dev-N007/pacman-output/pacman-contribution-graph.svg">
+--- -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-N007/Dev-N007/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-N007/Dev-N007/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dev-N007/Dev-N007/output/pacman-contribution-graph.svg">
 </picture>
 
---- -->
+
+
+--- 
 
 <div align="center">
 ⭐ Thanks for visiting my profile!
